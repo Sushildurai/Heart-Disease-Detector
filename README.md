@@ -3,6 +3,7 @@
 <div>
 <b>
  Heart Disease Detector Application Deployed using Heroku
+ 
  https://heart-disease-detector.herokuapp.com
  </b>
  </div>
