@@ -12,7 +12,6 @@ INTRODUCTION
 
 Medicine has evolved to aid us in surviving through the hail storms of diseases dormant in modern day society. Among which, Cardiovascular diseases (CVD) is a major one, as its touted to be the highest cause for death globally. In 2016 an estimated 17.9 million people were found to have died from CVD’s; representing almost 31% of global deaths annually. Among these deaths, heart attack and stroke have been the major symptom for 85% of those annual estimates. Hence to reduce such high prevalent risks, it would be helpful to detect the likelihood of a patient having a heart disease in order to cure and prevail the condition from occurring. 
 
-![feature infos](all_images/feature infos.png)
 
 <b> Data Sourced from UCI Machine learning repository:</b>
 ![Orignal Dataset Information](all_images/data_inforamtion.png)
