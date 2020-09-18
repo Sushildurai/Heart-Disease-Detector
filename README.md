@@ -1,6 +1,12 @@
 <b>HEART DISEASE DETECTION USING MACHINE LEARNING MODELS</b>
 
 <b>
+ Heart Disease Detector Application Deployed using Heroku
+ </b>
+ https://heart-disease-detector.herokuapp.com
+
+
+<b>
 ABSTRACT
 </b>
 
@@ -55,6 +61,7 @@ CONCLUSION
 </b>
 
 The aim of the Project was to find predict if a person will get heart disease based on 13 medical features using machine learning model and optimization. Such machine learning models were used, with its most optimized counterparts. From the range of Supervised classification models used Random Forest Classifier was seen to have the highest accuracy score among the others with 82.7%. 
+
 
 <b> Bibliography: </b>
  1. Andras Janosi, Andras, et al. “Heart Disease Dataset.” UCI Machine Learning Repository: Heart Disease Data Set, 2006, archive.ics.uci.edu/ml/datasets/Heart+Disease.
