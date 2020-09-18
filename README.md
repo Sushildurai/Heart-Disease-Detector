@@ -1,9 +1,11 @@
 <b>HEART DISEASE DETECTION USING MACHINE LEARNING MODELS</b>
 
+<div>
 <b>
  Heart Disease Detector Application Deployed using Heroku
- </b>
  https://heart-disease-detector.herokuapp.com
+ </b>
+ </div>
 
 
 <b>
