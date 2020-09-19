@@ -3,7 +3,7 @@
 <div>
  <h1>
 <b>
- Heart Disease Detector Application Deployed using Heroku
+ Heart Disease Detector Deployed using Heroku
   </b>
   </h1>
  <p>
