@@ -37,8 +37,13 @@ The data as shown in figure below, shows the first 5 rows of the dataset.
 ![Head of Dataset](all_images/data_head.png)
 
 
+
+<p>
 Age demographic of the patients with and without heart disease
+ 
 ![Age histogram](all_images/pop_vs_age.png)
+</p>
+
 
 
 Cholesterol level in patients (0: no heart disease, 1: has heart disease)
